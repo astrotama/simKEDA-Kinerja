@@ -1,0 +1,6 @@
+; $Id$
+name = "Kinerja"
+description = "Kinerja"
+;dependencies[] = 
+core = 7.x
+package="simKinerja"
